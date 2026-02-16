@@ -1,0 +1,9 @@
+{
+  "name": "linear-marketing-rebuilt",
+  "version": "2.0.0",
+  "description": "Linear Marketing Solutions - Rebuilt with working contact form",
+  "type": "module",
+  "dependencies": {
+    "resend": "^3.0.0"
+  }
+}
